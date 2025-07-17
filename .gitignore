@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+*.pyzwzw
+
+# Environment variables
+.env
+
+# Session files
+session/
+*.session*
+*.enc
+
+# Security logs
+security.log*
+bot_secure.log*
+
+# Database
+bot_state.db*
+
+# venv
+venv/
+
+# Logs
+logs/
+
+# Other
+.DS_Store
+.vscode/
